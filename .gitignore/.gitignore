@@ -1,0 +1,226 @@
+void setup(){
+  size(600,620);
+  background(#E9DAC8);
+
+}
+
+//Draw
+void draw(){
+  
+  noStroke();
+  fill(#E3C48B,255);
+  quad(555,0,600,0,48,620,0,454);
+  triangle(48,620,0,454,0,620);
+  
+  fill(#67A794,180);
+  quad(109,0,203,0,600,362,600,594);
+  
+  stroke(000000);
+  strokeWeight(1);
+  fill(#1A7280,100);
+  ellipse(464,289,54,54);
+  
+  stroke(000000);
+  strokeWeight(23);
+  noFill();
+  ellipse(301,299,542,542);
+  
+  strokeWeight(2);
+  fill(#B60F11,225);
+  ellipse(278,82,14,14);
+  
+  noStroke();
+  fill(#89495E,210);
+  ellipse(412,167,72,72);
+  
+  fill(#F9183A,190);
+  ellipse(309,212,100,100);
+  
+  fill(#1E2026);
+  ellipse(366,195,38,38);
+  
+     stroke(000000);
+  strokeWeight(0.5);
+  fill(#478A7F,100);
+  ellipse(405,283,144,144);
+  
+  stroke(#4F5141);
+  strokeWeight(1);
+  fill(#83A693,255);
+  ellipse(232,247,70,70);
+  
+  stroke(000000);
+  strokeWeight(1);
+  fill(#F3B3B9,80);
+  ellipse(232,183,124,124);
+  
+ 
+  
+  
+  noStroke();
+  fill(#302B35);
+  ellipse(412,246,26,26);
+  
+  strokeWeight(1.5);
+  stroke(000000);
+  fill(#D7697C,220);
+  ellipse(470,435,24,24);
+  
+  stroke(000000);
+  strokeWeight(1);
+  fill(#D98A83);
+  ellipse(331,491,32,32);
+  
+  stroke(000000);
+  strokeWeight(1);
+  fill(#E9433D);
+  ellipse(289,422,12,12);
+  
+
+   stroke(#A98D49);
+  strokeWeight(1);
+  fill(#EAC952,255);
+  ellipse(234,337,140,140);
+  
+ 
+  noStroke();
+  strokeWeight(0.5);
+  fill(#5C5E45,225);
+  ellipse(284.5,324.5,177,177); 
+  
+   fill(#990B11,200);
+  ellipse(305.5,361.5,17,17);
+  
+ 
+   stroke(000000);
+  strokeWeight(0.5);
+  fill(#EFD469,70);
+  ellipse(382.5,376.5,97,97);
+  
+  noStroke();
+  fill(#2D312E);  
+  ellipse(409.5,407.5,27,27);
+  
+  noStroke();
+  fill(#211A1A);
+  ellipse(248.5,436.5,9,9);
+  
+  stroke(#B8A16B);
+  strokeWeight(1);
+  fill(#ECC26C);
+  ellipse(358.5,446.5,15,15);
+  
+  stroke(000000);
+  strokeWeight(3);
+  fill(#EF6E38,200);
+  ellipse(277.5,281.5,67,67);
+  
+ 
+ 
+  strokeWeight(3);
+  fill(#68A895);
+  ellipse(167.5,355.5,45,45);
+  
+  strokeWeight(7);
+  fill(#DF0221);
+  ellipse(124.5,281.5,37,37);
+  
+  noStroke();
+  fill(#17161C);
+  ellipse(277.5,281.5,17,17);
+  
+  stroke(#7F4E25);
+  strokeWeight(1);
+  fill(#D65F48,200);
+  ellipse(131,437,34,34);
+ 
+  stroke(000000);
+  strokeWeight(3);
+  fill(#2A3F71);
+  ellipse(93,350,18,18);
+  
+   stroke(000000);
+  strokeWeight(2);
+  fill(#C32C29,200);
+  ellipse(218,396,54,54);
+  
+  strokeWeight(1);
+  line(135,155,500,215);
+  
+  strokeWeight(0.7);
+  line(179,119,500,353);
+  
+  strokeWeight(1.5);
+  line(315,122,336,153);
+  
+  strokeWeight(1.5);
+  line(306,132,330,162);
+  
+  strokeWeight(1.5);
+  line(334,128,135,388);
+  
+  strokeWeight(1);
+  line(425,102,194,487);
+  
+  strokeWeight(1);
+  line(430,124,370,497);
+  
+  strokeWeight(0.2);
+  line(444,116,379,517);
+  
+  strokeWeight(2);
+  line(74,304,508,393);
+  
+  strokeWeight(0.4);
+  line(106,359,477,402);
+
+  strokeWeight(0.3);
+  line(169,486,357,211);
+  
+  strokeWeight(0.3);
+  line(156,482,354,211);
+  
+  strokeWeight(1);
+  line(143,463,263,441);
+  
+  strokeWeight(1);
+  line(171,433,258,481);
+  
+  strokeWeight(1);
+  line(110,330,414,486);
+  
+  strokeWeight(0.2);
+  line(364,486,421,125);
+  
+  strokeWeight(0.1);
+  line(347,473,405,439);
+  
+  strokeWeight(0.1);
+  line(352,481,409,445);
+  
+  strokeWeight(0.1);
+  line(355,489,414,454);
+  
+  strokeWeight(1.4);
+  line(438,227,473,227);
+  
+  line(438,218,464,218);
+  
+  strokeWeight(2);
+  line(443,196,446,443);
+  
+  strokeWeight(0.6);
+  line(104,328,279,167);
+
+  strokeWeight(0.5);
+  line(83,246,487,353);
+  
+  strokeWeight(0.2);
+  line(80,256,485,368);
+
+  line(107,233,82,278);
+  
+  line(118,235,87,274);
+  
+  line(154,252,142,293);
+}
